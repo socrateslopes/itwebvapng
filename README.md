@@ -1,4 +1,4 @@
-# Imagem Apache em CentOS
+# GIF - Fmkweb
 
 ## Usage
 ``` bash
